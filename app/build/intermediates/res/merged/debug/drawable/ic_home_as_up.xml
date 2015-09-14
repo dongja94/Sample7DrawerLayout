@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:fromDegrees="0"
+    android:toDegrees="180"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:drawable="@drawable/ic_drawer">
+</rotate>
+<!-- From: file:/C:/Android/Library/android-education-project/Sample7DrawerLayout1/app/src/main/res/drawable/ic_home_as_up.xml -->
